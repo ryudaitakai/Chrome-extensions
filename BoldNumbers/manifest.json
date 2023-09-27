@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "数字を太字にする拡張機能",
+    "version": "1.0",
+    "description": "Webページ上の数字を太字にします。",
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
